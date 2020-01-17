@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "max test secret",
+  "mongoUrl": "mongodb+srv://Max:admin@cluster0-jjhgj.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
